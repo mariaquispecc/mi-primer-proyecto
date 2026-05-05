@@ -1,5 +1,4 @@
 import sys
-
 class Saludador:
     def __init__(self, entidad: str = "Mundo"):
         self.entidad = entidad
