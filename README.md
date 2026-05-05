@@ -17,6 +17,15 @@ GitHub: Como repositorio remoto centralizado.
 Visual Studio Code: Entorno de desarrollo integrado (IDE) para la codificación y gestión de Git.
 Python: Para la creación del archivo "Hola Mundo" avanzado.
 
+PASO 1: 
+Instalación de Node.Js, GitHub, VS Code
+
+PASO 2:
+Creación de repositorio Git y carpeta de proyecto en local.
+
+PASO 3:
+Enlace de archivos local con repositorio Git.
+
 COMANDOS EMPLEADOS PARA LA SUBIDA DE ARCHIVOS:
 git init
 git add .
@@ -25,8 +34,12 @@ git branch -M main
 git remote add origin https://github.com/mariaquispecc/mi-primer-proyecto.git
 git push -u origin main
 
+PASO 4: 
+Puebas de sincronización entre repositorio Git y local.
+
 SINCRONIZACIÓN DE ARCHIVOS (GITHUB -> VS CODE)
 git pull origin main
+
 
 CONCLUSIONES:
 La integración de VS Code con GitHub permite una gestión eficiente del código. 
