@@ -6,7 +6,7 @@ NOMBRE: MARIA LEONELA QUISPE CCAHUANA
 CÓDIGO: 27210513
 
 DESCRIPCIÓN DEL ESTUDIANTE:
-
+Alumna de Ingenieria de Sistemas de la serie 500 con interes especial por el Cloud Computing  y  el Data Enginnering & Analytics.
 
 DESCRIPCIÓN DE LABORATORIO:
 El laboratorio busco establecer un flujo de trabajo profesional de desarrollo de software utilizando Git para el control de versiones local y GitHub para la colaboración.
